@@ -13,24 +13,7 @@ async function fetchData() {
  },[]) 
  
 return(
-//     <div id='main'>
-//       {
-//         data.map((products)=>{return(
-//         <div>
-//           <h1>{products.title}</h1>
-//           <h1>{products.price}</h1>
-//           <img id='image'src={products.image}alt="" />
-//           </div>
-//         )
-//       })
-//       }
-  
 
-//     </div>
-//   )
-  
-// }
-// export default App/
 
 
     <div className="app-container">
